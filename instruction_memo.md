@@ -31,6 +31,19 @@ set up meeting times, contribute to a shared repo, or more!
 If you are not already a member of the enrolled student Slack (different from ND013), you can join here.
 
 
+2018/02/27
+
+- Team Gauss
+- Leader Sascha Moecker
+  - mckeck88@gmx.de @sascha	UTC+1(Munich, Germany)
+  - Used ROS in academia/industry
+  - Happy with 4 teammates, contact using slack, starting on project start of March
+- Team Member
+  - Hiroshi Ichiki ichy@somof.net @hiroshi UTC+9 (Tokyo)
+  - Saina Ramyar saina.ramyar@gmail.com	@saina UTC-5 (New York City)
+  - David Obando david.obando@gmail.com	@davidobando UTC-8 (Seattle)
+  - William Leu	reavenk@gmail.com @reavenk UTC-6 (Houston)
+
 
 
 # Submission checklist and requirements
